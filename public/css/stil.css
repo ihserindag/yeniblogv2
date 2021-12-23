@@ -1,0 +1,32 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css);
+.giris-link {
+  margin-left: 10px !important;
+  float: right !important;
+  margin-right: 0 !important;
+}
+.giris-link form button {
+  padding: 5px !important;
+}
+
+.portfolio .portfolio-item .portfolio-item-wrapper .portfolio-item-wrapper-left {
+  flex-basis: 100% !important;
+}
+.portfolio .portfolio-item .portfolio-item-wrapper .portfolio-item-wrapper-left a {
+  position: absolute;
+  bottom: 0;
+  background: transparent;
+}
+.portfolio .portfolio-item .portfolio-item-wrapper .portfolio-item-wrapper-left a:hover {
+  color: black !important;
+}
+
+.dropdown-menu li form .btn {
+  border: none;
+  display: block;
+  padding: 16px 22px !important;
+}
+.dropdown-menu li form .btn:hover {
+  background: none !important;
+  border-color: none !important;
+  color: black !important;
+}
